@@ -1,5 +1,6 @@
 package dsfs.doaom;
 
 public class test {
-	private String id;
+	private String id1;
+	private String id2;
 }
